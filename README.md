@@ -5,6 +5,6 @@ This repository contain all the material related to the colour categorisation mo
 
 Related links:
 --------
-http://www.cvc.uab.es/neurobit/
-http://www.cvc.uab.es/
+http://www.cvc.uab.es/neurobit/ <br>
+http://www.cvc.uab.es/ <br>
 http://www.uab.cat/
