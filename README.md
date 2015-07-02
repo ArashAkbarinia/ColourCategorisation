@@ -8,7 +8,7 @@ Colour Categorisation
 </p>
 
 <p align="justify">
-This repository contain all the material related to the colour categorisation model we are currently developing at NeuroComputation and Biological Vision Team (NeuroBiT) in Centre de Visió per Computador (CVC) which is part of the Universitat Autònoma de Barcelon.
+This repository contain all the material related to the colour categorisation model we are currently developing at <b> NeuroComputation and Biological Vision Team (NeuroBiT) </b> in <i> Centre de Visió per Computador (CVC) </i> which is part of the <i> Universitat Autònoma de Barcelon </i>.
 </p>
 
 Related links:
