@@ -13,9 +13,10 @@ ImageRGB = WcsChart();
 
 %% Colour categorisation
 
-PlotResults = 1;
+PlotResults = true;
 
-BelongingImage = rgb2belonging(ImageRGB, ColourSpace, PlotResults, GroundTruth);
+NaiveAdaptation = true;
+BelongingImage = rgb2belonging(ImageRGB, ColourSpace, PlotResults, GroundTruth, NaiveAdaptation);
 
 %% compare with gt
 if docomparegt
