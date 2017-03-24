@@ -6,14 +6,3 @@ Colour Categorisation
 <img src="https://raw.githubusercontent.com/ArashAkbarinia/ColourCategorisation/master/data/imgs/res_probpeppers.jpg" width="45%" height="45%" />
 <img src="https://raw.githubusercontent.com/ArashAkbarinia/ColourCategorisation/master/data/imgs/ColourEllipsoids.jpg" width="50%" height="50%" />
 </p>
-
-<p align="justify">
-This repository contain all the material related to the colour categorisation model we are currently developing at <b> NeuroComputation and Biological Vision Team (NeuroBiT) </b> in <i> Centre de Visió per Computador (CVC) </i> which is part of the <i> Universitat Autònoma de Barcelon </i>.
-</p>
-
-Related links:
---------
-http://www.cvc.uab.es/people/sakbarinia/ <br>
-http://www.cvc.uab.es/neurobit/ <br>
-http://www.cvc.uab.es/ <br>
-http://www.uab.cat/
